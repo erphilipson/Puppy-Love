@@ -41,6 +41,11 @@ body>div {
 
 }
 
+section {
+  border-bottom: 5px solid #ddd;
+  padding: 5% 0%;
+}
+
 .main_navigation {
   margin-left: 2%;
 }
@@ -68,8 +73,6 @@ body>div {
 
 ul {
   font-weight: bold;
-  border-bottom: 5px solid #dddddd;
-  padding-bottom: 5%;
 }
 
 h2, h3 {
